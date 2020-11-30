@@ -1,2 +1,2 @@
 # Pathfinding
-A* pathfinding algorithm implementation using Text Mesh gridmap
+A* pathfinding algorithm implementation
